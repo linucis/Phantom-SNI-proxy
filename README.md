@@ -1,4 +1,10 @@
 # phantom
 SNI Proxy
 
-#By Linucis
+#LimitNOFILE
+
+vi /etc/systemd/system/nginx.service.d/override.conf
+
+[Service]
+LimitNOFILE=65536
+
