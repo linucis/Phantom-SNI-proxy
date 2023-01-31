@@ -1,9 +1,9 @@
-# phantom
-SNI Proxy All in one as a bundle
+# phantom <br />
+SNI Proxy All in one as a bundle <br />
 
-#LimitNOFILE configuration for nginx service (Recommended)
-vi /etc/systemd/system/nginx.service.d/override.conf
+#LimitNOFILE configuration for nginx service (Recommended) <br />
+vi /etc/systemd/system/nginx.service.d/override.conf <br />
 
-[Service]
-LimitNOFILE=65536
+[Service] <br />
+LimitNOFILE=65536 <br />
 
