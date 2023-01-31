@@ -1,4 +1,4 @@
-# phantom <br />
+# Phantom SNI Proxy<br />
 SNI Proxy All in one as a bundle <br />
 
 #LimitNOFILE configuration for nginx service (Recommended) <br />
